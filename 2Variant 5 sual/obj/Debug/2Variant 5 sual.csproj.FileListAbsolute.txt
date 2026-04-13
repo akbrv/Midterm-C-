@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\bin\Debug\2Variant 5 sual.exe.config
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\bin\Debug\2Variant 5 sual.exe
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\bin\Debug\2Variant 5 sual.pdb
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\obj\Debug\2Variant 5 sual.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\obj\Debug\2Variant 5 sual.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\obj\Debug\2Variant 5 sual.exe
+C:\Users\user\Desktop\C# Basic\Midterm\2Variant 5 sual\obj\Debug\2Variant 5 sual.pdb

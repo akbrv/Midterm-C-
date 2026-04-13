@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\bin\Debug\midterm variant 4.exe.config
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\bin\Debug\midterm variant 4.exe
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\bin\Debug\midterm variant 4.pdb
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\obj\Debug\midterm variant 4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\obj\Debug\midterm variant 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\obj\Debug\midterm variant 4.exe
+C:\Users\user\Desktop\C# Basic\Midterm\midterm variant 4\obj\Debug\midterm variant 4.pdb
